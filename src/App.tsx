@@ -76,7 +76,7 @@ function App() {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <img 
-              src="https://drive.google.com/file/d/1oJHI6_Qw9n1fvxZFvRuYO94GAWUebz9X/view" // Replace with actual logo URL
+              src="logo.png" // Replace with actual logo URL
               alt="Sudevi Logo"
               className="h-12"
             />
@@ -117,7 +117,7 @@ function App() {
             <div className="reveal">
               <div className="flex items-center space-x-2 mb-4">
                 <img 
-                  src="https://i.imgur.com/XYZabc.jpg" // Replace with actual logo URL
+                  src="logo.png" // Replace with actual logo URL
                   alt="Sudevi Logo"
                   className="h-8"
                 />
